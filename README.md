@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hmcgovern, a master's student in computer science at the University of Cambridge
+- 👋 Hi, I’m @hmcgovern, a PhD student in computer science at the University of Cambridge
 - 👀 I’m interested in natural language processing, machine translation, and digital humanities
 - 🌱 I’m currently learning Julia
 - 💞️ I’m looking to collaborate on very low-resource translation, applications of ML to ancient/historical documents
