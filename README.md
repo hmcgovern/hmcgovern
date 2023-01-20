@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hmcgovern, a PhD student in computer science at the University of Cambridge
-- 👀 I’m interested in natural language processing, machine translation, and digital humanities
-- 🌱 I’m currently learning Julia
-- 💞️ I’m looking to collaborate on very low-resource translation, applications of ML to ancient/historical documents
+- 👋 Hi, I’m Hope, a CS PhD student at the University of Cambridge
+- 👀 I’m interested in natural language processing, narrative understanding, and digital humanities
+- 🌱 I’m currently learning Julia and Ancient Hebrew
+- 💞️ I’m looking to collaborate on applications of ML to ancient/historical documents
 - 📫 How to reach me: hem52 at cam dot ac dot uk
 
 <!---
